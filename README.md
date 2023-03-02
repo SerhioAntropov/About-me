@@ -1,4 +1,4 @@
-# ![foto](/About/photo_2023-03-02_22-02-31.jpg)
+ ![foto] ([/About/photo_2023-03-02_22-02-31.jpg](https://news.store.rambler.ru/img/b2b5e98bdf558c85bc9072573f6dc319?img-format=auto&img-1-resize=height:355,fit:max&img-2-filter=sharpen))
 
 ## Hello world!
 
